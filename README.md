@@ -1,6 +1,7 @@
 # ParticleLife
 Particle interaction system in my custom engine (OpenGL + Imgui)
 
+https://github.com/gabriel-combe/ParticleLife/assets/26323828/3b5df358-4181-487a-a537-1f1079bb8df2
 
 
 ## Installation
